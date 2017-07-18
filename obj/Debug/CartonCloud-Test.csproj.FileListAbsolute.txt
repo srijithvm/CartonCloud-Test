@@ -1,0 +1,6 @@
+D:\Srijith\Apps\CartonCloud-Test\CartonCloud-Test\bin\Debug\CartonCloud-Test.exe.config
+D:\Srijith\Apps\CartonCloud-Test\CartonCloud-Test\bin\Debug\CartonCloud-Test.exe
+D:\Srijith\Apps\CartonCloud-Test\CartonCloud-Test\bin\Debug\CartonCloud-Test.pdb
+D:\Srijith\Apps\CartonCloud-Test\CartonCloud-Test\obj\Debug\CartonCloud-Test.csprojResolveAssemblyReference.cache
+D:\Srijith\Apps\CartonCloud-Test\CartonCloud-Test\obj\Debug\CartonCloud-Test.exe
+D:\Srijith\Apps\CartonCloud-Test\CartonCloud-Test\obj\Debug\CartonCloud-Test.pdb
